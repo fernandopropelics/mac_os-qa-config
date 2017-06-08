@@ -221,16 +221,16 @@ defaults write net.sourceforge.cruisecontrol.CCMenu Projects '
     serverUrl = "https://api.travis-ci.org/repos/bkuhlmann/auther/cc.xml";
   },
   {
-    projectName = "bkuhlmann/db";
-    serverUrl = "https://api.travis-ci.org/repos/bkuhlmann/db/cc.xml";
-  },
-  {
     projectName = "bkuhlmann/flacsmith";
     serverUrl = "https://api.travis-ci.org/repos/bkuhlmann/flacsmith/cc.xml";
   },
   {
     projectName = "bkuhlmann/gemsmith";
     serverUrl = "https://api.travis-ci.org/repos/bkuhlmann/gemsmith/cc.xml";
+  },
+  {
+    projectName = "bkuhlmann/git-cop";
+    serverUrl = "https://api.travis-ci.org/repos/bkuhlmann/git-cop/cc.xml";
   },
   {
     projectName = "bkuhlmann/lineage";
